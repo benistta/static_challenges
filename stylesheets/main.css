@@ -1,0 +1,45 @@
+h1 {
+  padding: 20px 20px 20px 20px;
+  height: 420 px;
+  width: 100%;
+  background-color: red;
+  font-size: 30px;
+  text-align: left;
+
+}
+
+h2 {
+  padding: 8px 8px 8px 8px;
+  height: 400 px;
+  width: 100%;
+  background-color: black;
+  text-align: right;
+  }
+
+
+  .column {
+
+    float: left;
+    width: 50%;
+    text-align: left;
+  }
+
+/*
+  .row::after {
+
+    content: "";
+    clear: both;
+    display: table;
+
+  } */
+
+p {
+  background-color: white;
+  font-size: 15px;
+}
+
+footer {
+  color: white;
+  background-color: grey;
+  font-size: 10px;
+}
